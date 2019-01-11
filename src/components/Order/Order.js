@@ -19,7 +19,7 @@ const order = props => {
         key={ig.name}
         style={{
           textTransform: 'capitalize',
-          dispaly: 'inline-block',
+          display: 'inline-block',
           margin: '0 8px',
           border: '1px solid #ccc',
           padding: '5px'
